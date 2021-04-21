@@ -1,3 +1,3 @@
 # hello-world
-My first repository endl>>;
+My first repository
 Pizza is good
